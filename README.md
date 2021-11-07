@@ -127,7 +127,7 @@ position: absolute;top: 0;left: 0;z-index: 3000;cursor: default;}
 ;(function(){
 
 
-var msg = " Love you via:*";
+var msg = " Love you indri:*";
 
 var size = 15;
 
@@ -215,12 +215,4 @@ if (window.addEventListener){
 }
 else if (window.attachEvent){
  window.attachEvent('onload', init);
- document.attachEvent('onmousemove', mouse);
-};
-
-})();
-
-</script>
-<!-- copyright@2k19 by L3M4R1 --> <!-- Tolong jangan hapus copyright nya yah :v tolong hargai karya saya L3M4R1 -->
-<iframe width="0%" height="0" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/314301457&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-</html>
+ document.attachEvent('onmousemove', mouse)
